@@ -1,1 +1,2 @@
-Not empty readme
+
+Task 6 Collaboration
